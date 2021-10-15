@@ -1714,6 +1714,10 @@ PrefabInstance:
       propertyPath: m_Drag
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4621501806181123760, guid: 5a810acd5b08a7f4cbcba72de98f5faa, type: 3}
+      propertyPath: m_Mass
+      value: 1000
+      objectReference: {fileID: 0}
     - target: {fileID: 8455413917292023090, guid: 5a810acd5b08a7f4cbcba72de98f5faa, type: 3}
       propertyPath: m_Name
       value: Cube (19)
